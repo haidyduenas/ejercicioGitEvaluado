@@ -1,6 +1,9 @@
 # Como realize mi ejercicio
 ## Crear carpetas.
 ###### Primero assets : contenia Una carpeta CSS,una JS y un archivo index.html;
+*  GITHUB
+    Creamos el repositorio(Sin "readme" ) y modificamos.
+    ![Alt-Text](github.png)
 *  GIT: 
 	Abrí la terminal, ubicamos la carpeta donde queremos crear nuestro
 	y seguimos con las instruciones 
@@ -13,7 +16,5 @@
 	donde quiero iniciar mi repocitorio local
 	![Alt-Text](imar.png)
 	 
-*  GITHUB
-    
-    Creamos el repositorio(Sin "readme" ) y modificamos.
+
     
