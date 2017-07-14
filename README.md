@@ -7,11 +7,11 @@
 	![Alt-Text](git.png)
 	Subimos nuestros archivos atravez de Git a la plataforma de GitHub.
 	Hago los siguientes comandos:
-	git init
-	git remote add origin https://github.com/arabelarc/Mi-primer-repositorio.git
-	git commit -m “Una pequeña descripcion”
-	Y luego 
-	![Alt-Text](imar.png) 
+		
+	*Cuando pusheas por primera vez sin un README desde GitHub,
+	debes tener en cuenta el 
+	![Alt-Text](imar.png)
+	 
 *  GITHUB
     
     Creamos el repositorio(Sin "readme" ) y modificamos.
